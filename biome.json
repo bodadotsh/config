@@ -26,6 +26,13 @@
       "semicolons": "always"
     }
   },
+  "html": {
+    "experimentalFullSupportEnabled": true,
+    "formatter": {
+      "enabled": true,
+      "indentScriptAndStyle": false
+    }
+  },
   "assist": {
     "enabled": true,
     "actions": {
