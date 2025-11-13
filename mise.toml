@@ -1,4 +1,4 @@
 [tools]
-biome = "2.3.4"
+biome = "2.3.5"
 node = "24"
 pnpm = "10"
